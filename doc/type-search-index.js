@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"mx.com.conversor.modelo","l":"ExceptionMoneda"},{"p":"mx.com.conversor.modelo","l":"MenuInicial"},{"p":"mx.com.conversor.modelo","l":"Registro"}];updateSearchResults();
